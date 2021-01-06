@@ -1,2 +1,2 @@
-# Home Automation in Cisco Packet Tracer
+# Smart Home Network in Cisco Packet Tracer
  
